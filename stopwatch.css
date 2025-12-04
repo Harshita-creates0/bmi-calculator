@@ -1,0 +1,17 @@
+body {
+  background: black;
+  margin: 0;
+  height: 100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.clock {
+  color: aqua;
+  font-size: 60px;
+  font-family: "Orbitron", Arial, sans-serif;
+  letter-spacing: 7px;
+  position: relative;
+  text-align: center;
+}
